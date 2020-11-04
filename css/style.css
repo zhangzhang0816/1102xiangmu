@@ -29,3 +29,44 @@
     left: 0;
     top: 0;
 }  
+/* 底部样式 */
+.bottomBox{
+    padding: 40px 0;
+    background: darkblue;
+    color: #fff;
+}
+.bottomInfo{
+    padding: 40px 0 10px;
+    background: darkcyan;
+    color: #fff;
+}
+.bottomInfo a{
+    color: #fff;
+}
+/* 底部flx布局 */
+.pc-flx{
+    height: 300px;
+}
+.flx{
+    display: flex;
+    align-items: center;
+}
+.fx1{
+    flex: 1;
+}
+.pc-btm-ipt{
+    box-sizing: border-box;
+    padding: 0 60px;
+}
+/* 移动端底部 */
+.mobile-btm{
+    padding: 30px 0 25px 0;
+}
+.mgp{
+    margin: 20px 0;
+}
+.mobile-btm-ipt input{
+    width: 60%;
+    font-size: 12px;
+    margin: auto;
+}
