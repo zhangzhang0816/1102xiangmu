@@ -70,3 +70,14 @@
     font-size: 12px;
     margin: auto;
 }
+/* 巨幕 */
+.jumbotron{
+    min-height: 500px;
+    padding: 100px 0;
+    background: url(../img/ultrasound-l.jpg);
+    background-origin: border-box;
+    background-size: cover;
+}
+.w450{
+    width: 450px;
+}
