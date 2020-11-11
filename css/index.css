@@ -1,0 +1,18 @@
+/* index独有样式 */
+.light{
+    background: url(../img/li-l.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.watch{
+    background: url(../img/philips-watch-left-l.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+.light .jumbotron , .watch .jumbotron{
+background: none;
+}
+.jumbotron .clrfff{
+    color: #fff;
+}
+.w400{
+    width: 400px;
+}

@@ -76,7 +76,7 @@
     padding: 100px 0;
     background: url(../img/ultrasound-l.jpg);
     background-origin: border-box;
-    background-size: cover;
+    background-size: 100% 100%;
 }
 .w450{
     width: 450px;
