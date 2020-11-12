@@ -16,3 +16,33 @@ background: none;
 .w400{
     width: 400px;
 }
+/* 注册 */
+.registe{
+    background: lightgrey;
+}
+.mgb15{
+   margin-bottom: 15px; 
+}
+.green{
+    color: limegreen;
+}
+.rgs-rt{
+    width: 100%;
+    height: 390px;
+    padding: 20px 30px;
+    color: #fff;
+    background: url(../img/LM-MyPhilips-Banner.jpg) no-repeat;
+    background-size: 100% 100%;
+}
+@media (max-width: 767px) {
+    .rgs-rt{
+        height: 200px;
+    }
+}
+/* 搜索 */
+.search{
+    background: lightblue;
+}
+.blue{
+    color: blue;
+}
