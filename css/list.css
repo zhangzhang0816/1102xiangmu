@@ -1,0 +1,16 @@
+/* list页面独有样式 */
+.sdw{
+    padding: 5px;
+    margin-bottom: 15px;
+    box-shadow: #000 3px 4px 7px;
+}
+.lt-media{
+    width: 200px;
+    height: 200px;
+}
+@media (max-width:747px){
+    .lt-media{
+        width: 200px;
+        height: 200px;
+    }
+}
